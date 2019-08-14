@@ -1,0 +1,1 @@
+Here is defolt configuration file ngnix-1.16.1
